@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 openmetadata/db:1.5.0-SNAPSHOT
-elasticsearch/elasticsearch:8.10.2
+elasticsearch:8.10.2
