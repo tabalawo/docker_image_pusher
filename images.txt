@@ -4,5 +4,5 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-docker.getcollate.io/openmetadata/db:1.5.0-SNAPSHOT
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+openmetadata/db:1.5.0-SNAPSHOT
+elasticsearch/elasticsearch:8.10.2
